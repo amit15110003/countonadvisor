@@ -1,0 +1,38 @@
+body{font-family: 'Source Sans Pro', sans-serif;}
+h1 , h3{font-family: 'Merriweather', serif;}
+i{color: #fff !important;}
+.header-top{padding-top: 10px;}
+.header-top li{list-style: none;display: inline;padding-left: 10px;padding-right: 10px;}
+.header-top a{color: #fff;font-size: 16px;text-decoration: none;font-family: 'Merriweather', serif;}
+.header-main{background-color: transparent !important;border:none !important;}
+.header-main-nav li a{color: #fff !important;font-size: 16px;}
+.row{margin-left: 0px !important;margin-right: 0px !important;}
+.home-banner{margin-top: -70px;padding-top: 15%;}
+.th-title{font-size: 100px !important;color: #fff !important;line-height: 122px;}
+.th-subtitle{font-size: 40px !important;color: #fff !important;line-height: 70px;}
+.th-btn{border-radius: 40px;height:50px;background-color: #fff;padding: 16px 30px;font-family: 'Merriweather', serif;font-size: 18px;text-align: center;line-height: 20px;}
+.th-btn-defaul{border: solid 2px #fff;background-color: #fff;}
+.th-btn-in{border: solid 2px #fff;background-color: transparent;color: #fff;}
+a:hover{text-decoration: none;}
+.th-row-p{padding-top: 80px;padding-bottom: 80px;}
+.th-pt{padding-top: 20px !important;}
+.th-pb{padding-bottom: 20px !important;}
+.th-box{border:solid 3px #2A98CB;padding-top:30px;padding-bottom: 30px;}
+.th-textg{color:#73777A;}
+.th-textw{color:#fff;}
+p{font-size: 18px !important;}
+#our-services{background-color: #FCFDFF;}
+#stats{background-color: #344050;}
+.stats-count{font-size: 100px;font-family: 'Merriweather', serif;background: linear-gradient(to right, #5761E4 0%, #3ADFA7 100%);
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;}
+#contactus{background-color: #344050;}
+#subscribe{background-color: #344050;}
+.link a{color:#000;font-size: 18px;font-family: 'Merriweather', serif;}
+.footer-nav{padding-top: 10px;}
+.footer-nav li{list-style: none;display: inline;padding-left: 10px;padding-right: 10px;}
+.footer-nav a{color: #fff;font-size: 26px;text-decoration: none;}
+.footer-nav-social{padding-top: 10px;}
+.footer-nav-social li{list-style: none;display: inline;padding-left: 20px;padding-right: 20px;}
+.footer-nav-social a{color: #fff;font-size: 26px;text-decoration: none;}
+.footer-nav-social img{height: 50px;}
