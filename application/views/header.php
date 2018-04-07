@@ -66,11 +66,11 @@
           <a class=" dropdown-toggle" type="button" data-toggle="dropdown" data-hover="dropdown">Mutual Funds <i class="fa fa-angle-down" aria-hidden="true"></i>
           </a>
           <ul class="dropdown-menu">
-            <li><a href="<?php echo base_url("index.php/profile"); ?>">About Mutual Funds</a></li>
-            <li><a href="<?php echo base_url("index.php/orders"); ?>" >About SIP</a></li>
+            <li><a href="<?php echo base_url("index.php/home/Mutualfunds"); ?>">About Mutual Funds</a></li>
+            <li><a href="<?php echo base_url("index.php/home/AboutSIP"); ?>" >About SIP</a></li>
             <li><a href="<?php echo base_url("index.php/wishlist"); ?>">SIP Calculator</a></li>
-            <li><a href="<?php echo base_url("index.php/profile/address"); ?>">Current NFO</a></li>
-            <li><a href="<?php echo base_url("index.php/profile/account_details"); ?>">Dividends Announced</a></li>
+            <li><a href="<?php echo base_url("index.php/home/CurrentNFO"); ?>">Current NFO</a></li>
+            <li><a href="<?php echo base_url("index.php/home/#"); ?>">Dividends Announced</a></li>
             <li><a href="<?php echo base_url("index.php/home/logout"); ?>">Latest NAV</a></li>
             <li><a href="<?php echo base_url("index.php/home/logout"); ?>">Fund Performance</a></li>
           </ul>
@@ -79,18 +79,18 @@
           <a class=" dropdown-toggle" type="button" data-toggle="dropdown" data-hover="dropdown">Insurance <i class="fa fa-angle-down" aria-hidden="true"></i>
           </a>
           <ul class="dropdown-menu">
-            <li><a href="<?php echo base_url("index.php/profile"); ?>">Life Insurance</a></li>
-            <li><a href="<?php echo base_url("index.php/orders"); ?>" >Health Insurance</a></li>
+            <li><a href="<?php echo base_url("index.php/home/LifeInsurance"); ?>">Life Insurance</a></li>
+            <li><a href="<?php echo base_url("index.php/home/HealthInsurance"); ?>" >Health Insurance</a></li>
           </ul>
         </li>
         <li class="dropdown">
           <a class=" dropdown-toggle" type="button" data-toggle="dropdown" data-hover="dropdown">Taxation <i class="fa fa-angle-down" aria-hidden="true"></i>
           </a>
           <ul class="dropdown-menu">
-            <li><a href="<?php echo base_url("index.php/profile"); ?>">Tax Planning</a></li>
-            <li><a href="<?php echo base_url("index.php/orders"); ?>" >Tax Slab</a></li>
-            <li><a href="<?php echo base_url("index.php/wishlist"); ?>"> Tax Deduction</a></li>
-            <li><a href="<?php echo base_url("index.php/profile/address"); ?>">Tax Calculator</a></li>
+            <li><a href="<?php echo base_url("index.php/home/TaxPlanning"); ?>">Tax Planning</a></li>
+            <li><a href="<?php echo base_url("index.php/home/#"); ?>" >Tax Slab</a></li>
+            <li><a href="<?php echo base_url("index.php/home/TaxDeduction"); ?>"> Tax Deduction</a></li>
+            <li><a href="<?php echo base_url("index.php/home/#"); ?>">Tax Calculator</a></li>
           </ul>
         </li>
         <li class="dropdown">
@@ -108,8 +108,8 @@
           <a class=" dropdown-toggle" type="button" data-toggle="dropdown" data-hover="dropdown">NRI Services <i class="fa fa-angle-down" aria-hidden="true"></i>
           </a>
           <ul class="dropdown-menu">
-            <li><a href="<?php echo base_url("index.php/profile"); ?>">NRI Services</a></li>
-            <li><a href="<?php echo base_url("index.php/orders"); ?>" >Document Required</a></li>
+            <li><a href="<?php echo base_url("index.php/home/NRIServices"); ?>">NRI Services</a></li>
+            <li><a href="<?php echo base_url("index.php/home/DocumentsRequired"); ?>" >Document Required</a></li>
           </ul>
         </li>
         <li class="dropdown">
