@@ -46,8 +46,8 @@
 <script type="text/javascript">
     $(document).ready(function()
         {
-        $('.home-banner').height($(window).height());
-         $('.page-banner').height($(window).height()*0.50);
+        $('.home-banner').height($(window).height()*0.75);
+         $('.page-banner').height($(window).height()*0.40);
         });
 </script>
 <script type="text/javascript">
