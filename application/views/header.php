@@ -17,7 +17,8 @@
 	<!-- CSS Plugins -->
 	<link rel="stylesheet" type="text/css" href="<?php echo base_url();?>/media/css/bootstrap.min.css" media="screen">	
     <!-- CSS Custom -->
-	<link href="<?php echo base_url();?>/media/css/style.css" rel="stylesheet">
+  <link href="<?php echo base_url();?>/media/css/style.css" rel="stylesheet">
+  <link href="<?php echo base_url();?>/media/css/style1.css" rel="stylesheet">
   <link href="https://fonts.googleapis.com/css?family=Merriweather:400,700|Source+Sans+Pro:400,700" rel="stylesheet">
 	<script defer src="https://use.fontawesome.com/releases/v5.0.9/js/all.js" integrity="sha384-8iPTk2s/jMVj81dnzb/iFR2sdA7u06vHJyyLlAd4snFpCl/SnyUjRrbdJsw1pGIl" crossorigin="anonymous"></script>
 

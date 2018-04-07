@@ -64,7 +64,7 @@
 							<div class="text-right link"><a href="" class="">Read More</a></div>
 			</div>
 			<div class="col-md-3">
-				<img src="<?php echo base_url();?>media/image/services/3.png" class="img-responsive center-block">
+				<img src="<?php echo base_url();?>media/image/services/3.png" class="img-responsive center-block s-img">
 							<p class="th-textg">Counton group, is one of India’s premier providers of financial services. The Counton offers advice and execution platform</p>
 							<div class="text-right link"><a href="" class="">Read More</a></div>
 			</div>
