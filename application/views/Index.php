@@ -95,7 +95,7 @@
 	<div class="container th-row-p">
 		<div class="col-xs-12 col-md-6">
 			<h2 style="">Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci </h2>
-			<h3 class="th-textw">Counton group, is one of India’s premier providers of financial services. The Counton offers advice and execution platform</h3>
+			<h3  class="th-textw">Counton group, is one of India’s premier providers of financial services. The Counton offers advice and execution platform</h3>
 			<div class="col-md-6 col-md-offset-6 col-xs-12 text-right">
 				<a class="th-btn th-btn-in col-xs-12" href="">Know More</a>
 			</div>
@@ -108,15 +108,19 @@
 		<div class="container">
 			<div class="col-md-3 col-xs-12 text-center">
 				<span class="stats-count">20</span>
+				<h3  class="th-textw">Year's Served</h3>
 			</div>
 			<div class="col-md-3 col-xs-12 text-center">
 				<span class="stats-count">5</span>
+				<h3 class="th-textw">Branch</h3>
 			</div>
 			<div class="col-md-3 col-xs-12 text-center">
 				<span class="stats-count">47</span>
+				<h3 class="th-textw">Employee</h3>
 			</div>
 			<div class="col-md-3 col-xs-12 text-center">
 				<span class="stats-count">500</span>
+				<h3 class="th-textw">Clients</h3>
 			</div>
 		</div>
 	</div>
