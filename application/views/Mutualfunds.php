@@ -28,42 +28,67 @@
 
 		<h3 class="th-htextcont">Classification of Funds:</h3>
 		<p class="th-textcont"></p>
-					<table>
-						  <tr>
-						    <th>Company</th>
-						    <th>Contact</th>
-						    <th>Country</th>
-						  </tr>
-						  <tr>
-						    <td>Alfreds Futterkiste</td>
-						    <td>Maria Anders</td>
-						    <td>Germany</td>
-						  </tr>
-						  <tr>
-						    <td>Centro comercial Moctezuma</td>
-						    <td>Francisco Chang</td>
-						    <td>Mexico</td>
-						  </tr>
-						  <tr>
-						    <td>Ernst Handel</td>
-						    <td>Roland Mendel</td>
-						    <td>Austria</td>
-						  </tr>
-						  <tr>
-						    <td>Island Trading</td>
-						    <td>Helen Bennett</td>
-						    <td>UK</td>
-						  </tr>
-						  <tr>
-						    <td>Laughing Bacchus Winecellars</td>
-						    <td>Yoshi Tannamuri</td>
-						    <td>Canada</td>
-						  </tr>
-						  <tr>
-						    <td>Magazzini Alimentari Riuniti</td>
-						    <td>Giovanni Rovelli</td>
-						    <td>Italy</td>
-						  </tr>
-					</table>
+			
+							<div class="table-responsive">
+						        <table >
+						          <thead>
+						            <tr>
+						              <th>Country</th><br>
+						              <th>Languages</th>
+						              <th>Population</th>
+						              <th>Median Age</th>
+						              <th>Area (Km²)</th>
+						            </tr>
+						          </thead>
+						          <tbody>
+						            <tr>
+						              <td>Argentina</td>
+						              <td>Spanish (official), English, Italian, German, French</td>
+						              <td>41,803,125</td>
+						              <td>31.3</td>
+						              <td>2,780,387</td>
+						            </tr>
+						            <tr>
+						              <td>Australia</td>
+						              <td>English 79%, native and other languages</td>
+						              <td>23,630,169</td>
+						              <td>37.3</td>
+						              <td>7,739,983</td>
+						            </tr>
+						            <tr>
+						              <td>Greece</td>
+						              <td>Greek 99% (official), English, French</td>
+						              <td>11,128,404</td>
+						              <td>43.2</td>
+						              <td>131,956</td>
+						            </tr>
+						            <tr>
+						              <td>Luxembourg</td>
+						              <td>Luxermbourgish (national) French, German (both administrative)</td>
+						              <td>536,761</td>
+						              <td>39.1</td>
+						              <td>2,586</td>
+						            </tr>
+						            <tr>
+						              <td>Russia</td>
+						              <td>Russian, others</td>
+						              <td>142,467,651</td>
+						              <td>38.4</td>
+						              <td>17,076,310</td>
+						            </tr>
+						            <tr>
+						              <td>Sweden</td>
+						              <td>Swedish, small Sami- and Finnish-speaking minorities</td>
+						              <td>9,631,261</td>
+						              <td>41.1</td>
+						              <td>449,954</td>
+						            </tr>
+						          </tbody>
+						        </table>
+						    </div><!--end of .table-responsive-->
+						    
+
+						
+
 	</div>
 </div>
