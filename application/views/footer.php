@@ -4,8 +4,8 @@
             <h3 class="th-textw">Subscribe to stay informed </h3>
         </div>
         <div class="col-xs-12 col-md-6">
-            <input type="" name="" class="scrb-in col-xs-6 col-md-6">
-            <a class="scrb-btn col-xs-6 col-md-6" href="">Contact Us</a>
+            <input type="" name="" class="scrb-in col-xs-6 col-md-6" placeholder="Your email address">
+            <a class="scrb-btn col-xs-6 col-md-6" href="">Subscribe</a>
         </div>
     </div>
 </div>
