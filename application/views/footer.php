@@ -47,6 +47,7 @@
     $(document).ready(function()
         {
         $('.home-banner').height($(window).height());
+         $('.page-banner').height($(window).height()*0.50);
         });
 </script>
 <script type="text/javascript">
