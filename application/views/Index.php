@@ -49,44 +49,44 @@
 		<h2 class="text-center col-xs-12 col-md-12 th-tb">Our Services</h2>
 		<div class="row th-pt">
 			<div class="col-md-3">
-				<img src="https://images.pexels.com/photos/209224/pexels-photo-209224.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260" class="img-responsive center-block">
+				<img src='<?php echo base_url();?>media/image/services/2.png'>
 							<p class="th-textg">Counton group, is one of India’s premier providers of financial services. The Counton offers advice and execution platform</p>
 							<div class="text-right link"><a href="" class="">Read More</a></div>
 			</div>
 			<div class="col-md-3">
-				<img src="https://images.pexels.com/photos/209224/pexels-photo-209224.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260" class="img-responsive center-block">
+				<img src='<?php echo base_url();?>media/image/services/1.png'>
 							<p class="th-textg">Counton group, is one of India’s premier providers of financial services. The Counton offers advice and execution platform</p>
 							<div class="text-right link"><a href="" class="">Read More</a></div>
 			</div>
 			<div class="col-md-3">
-				<img src="https://images.pexels.com/photos/209224/pexels-photo-209224.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260" class="img-responsive center-block">
+				<img src='<?php echo base_url();?>media/image/services/4.png'>
 							<p class="th-textg">Counton group, is one of India’s premier providers of financial services. The Counton offers advice and execution platform</p>
 							<div class="text-right link"><a href="" class="">Read More</a></div>
 			</div>
 			<div class="col-md-3">
-				<img src="https://images.pexels.com/photos/209224/pexels-photo-209224.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260" class="img-responsive center-block">
+				<img src='<?php echo base_url();?>media/image/services/3.png'>
 							<p class="th-textg">Counton group, is one of India’s premier providers of financial services. The Counton offers advice and execution platform</p>
 							<div class="text-right link"><a href="" class="">Read More</a></div>
 			</div>
 		</div>
 		<div class="row th-pt">
 			<div class="col-md-3">
-				<img src="https://images.pexels.com/photos/209224/pexels-photo-209224.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260" class="img-responsive center-block">
+				<img src='<?php echo base_url();?>media/image/services/5.png'>
 							<p class="th-textg">Counton group, is one of India’s premier providers of financial services. The Counton offers advice and execution platform</p>
 							<div class="text-right link"><a href="" class="">Read More</a></div>
 			</div>
 			<div class="col-md-3">
-				<img src="https://images.pexels.com/photos/209224/pexels-photo-209224.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260" class="img-responsive center-block">
+				<img src='<?php echo base_url();?>media/image/services/6.png'>
 							<p class="th-textg">Counton group, is one of India’s premier providers of financial services. The Counton offers advice and execution platform</p>
 							<div class="text-right link"><a href="" class="">Read More</a></div>
 			</div>
 			<div class="col-md-3">
-				<img src="https://images.pexels.com/photos/209224/pexels-photo-209224.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260" class="img-responsive center-block">
+				<img src='<?php echo base_url();?>media/image/services/7.png'>
 							<p class="th-textg">Counton group, is one of India’s premier providers of financial services. The Counton offers advice and execution platform</p>
 							<div class="text-right link"><a href="" class="">Read More</a></div>
 			</div>
 			<div class="col-md-3">
-				<img src="https://images.pexels.com/photos/209224/pexels-photo-209224.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260" class="img-responsive center-block">
+				<img src='<?php echo base_url();?>media/image/services/8.png'>
 							<p class="th-textg">Counton group, is one of India’s premier providers of financial services. The Counton offers advice and execution platform</p>
 							<div class="text-right link"><a href="" class="">Read More</a></div>
 			</div>
