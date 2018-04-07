@@ -37,8 +37,8 @@
 		</div>
 		<div class="col-md-6 text-right">
 			<ul class="header-top">
-          <li><a href="">Home</a></li> 
-          <li><a href="">About</a></li> 
+          <li><a href="<?php echo base_url();?>">Home</a></li> 
+          <li><a href="<?php echo base_url();?>index.php/home/about">About</a></li> 
           <li><a href="<?php echo base_url();?>index.php/home/contact">Contact Us</a></li> 
           <li><a href="">Invest Login</a></li> 
           <li><a href="">Portfolio Login</a></li>   

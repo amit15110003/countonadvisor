@@ -1,5 +1,6 @@
 body{font-family: 'Source Sans Pro', sans-serif;}
-h1 , h3{font-family: 'Merriweather', serif;}
+h1 ,h2, h3{font-family: 'Merriweather', serif;}
+h2{font-size: 50px !important;line-height: 65px;}
 i{color: #fff !important;}
 .header-top{padding-top: 10px;}
 .header-top li{list-style: none;display: inline;padding-left: 10px;padding-right: 10px;}
@@ -10,7 +11,7 @@ i{color: #fff !important;}
 .home-banner{margin-top: -70px;padding-top: 15%;}
 .page-banner{margin-top: -70px;padding-top: 15%;}
 .th-title{font-size: 100px !important;color: #fff !important;line-height: 122px;}
-.th-subtitle{font-size: 40px !important;color: #fff !important;line-height: 70px;}
+.th-subtitle{font-size: 40px !important;color: #fff !important;line-height: 70px;font-family: 'Source Sans Pro', sans-serif;}
 .th-btn{border-radius: 40px;height:50px;background-color: #fff;padding: 16px 30px;font-family: 'Merriweather', serif;font-size: 18px;text-align: center;line-height: 20px;}
 .th-btn-defaul{border: solid 2px #fff;background-color: #fff;}
 .th-btn-in{border: solid 2px #fff;background-color: transparent;color: #fff;}
@@ -29,7 +30,7 @@ p{font-size: 18px !important;}
 	-webkit-text-fill-color: transparent;}
 #contactus{background-color: #344050;}
 #subscribe{background-color: #344050;}
-.link a{color:#000;font-size: 18px;font-family: 'Merriweather', serif;}
+.link a{color:#3e4451;font-size: 18px;font-family: 'Merriweather', serif;}
 .footer-nav{padding-top: 10px;}
 .footer-nav li{list-style: none;display: inline;padding-left: 10px;padding-right: 10px;}
 .footer-nav a{color: #fff;font-size: 26px;text-decoration: none;}
@@ -40,3 +41,8 @@ p{font-size: 18px !important;}
 
 .scrb-btn{height:50px;background-color: #fff;padding: 16px 30px;font-family: 'Merriweather', serif;font-size: 18px;text-align: center;line-height: 20px;border-bottom-right-radius: 25px;border-top-right-radius: 25px;}
 .scrb-in{height:50px;background-color: #3F4857;padding: 16px 30px;font-family: 'Merriweather', serif;font-size: 18px;text-align: center;line-height: 20px;border-bottom-left-radius: 25px;border-top-left-radius: 25px;border-color: #3F4857;color: #808791;}
+.th-form{display: block;width: 100%;margin-top: 10px;font-size: 14px;line-height: 1.42857143;background-color: #fff;background-image: none;border: none;border: solid 2px #DCDDDF;margin: 5px 0;    margin-bottom: 15px;
+    height: 60px;
+    color: #73777A;
+    font-size: 20px;
+}
