@@ -1,10 +1,11 @@
 <div class="row th-row-p" id="subscribe">
     <div class="container" >
-        <div class="col-xs-12 col-md-9">
+        <div class="col-xs-12 col-md-6">
             <h3 class="th-textw">Subscribe to stay informed </h3>
         </div>
-        <div class="col-xs-12 col-md-3">
-            <a class="th-btn th-btn-default col-xs-12" href="">Contact Us</a>
+        <div class="col-xs-12 col-md-6">
+            <input type="" name="" class="scrb-in col-xs-6 col-md-6">
+            <a class="scrb-btn col-xs-6 col-md-6" href="">Contact Us</a>
         </div>
     </div>
 </div>
