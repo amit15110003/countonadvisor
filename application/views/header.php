@@ -38,7 +38,7 @@
 			<ul class="header-top">
           <li><a href="">Home</a></li> 
           <li><a href="">About</a></li> 
-          <li><a href="">Contact Us</a></li> 
+          <li><a href="<?php echo base_url();?>index.php/home/contact">Contact Us</a></li> 
           <li><a href="">Invest Login</a></li> 
           <li><a href="">Portfolio Login</a></li>   
       </ul>
