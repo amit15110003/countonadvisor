@@ -3,10 +3,10 @@
 		<h2 class="th-subtitle text-center">SERVICE FROM THE EXPERTS</h2>
 		<h1 class="th-title text-center">Consulting & Investmnets</h1>
 		<div class="col-md-6 col-md-offset-3">
-			<div class="col-md-6 col-xs-12">
-				<a class="th-btn th-btn-default col-xs-12" href="">Contact Us</a>
+			<div class="col-md-6 col-xs-12 th-pt">
+				<a class="th-btn th-btn-default col-xs-12 " href="">Contact Us</a>
 			</div>
-			<div class="col-md-6 col-xs-12">
+			<div class="col-md-6 col-xs-12 th-pt">
 				<a class="th-btn th-btn-in col-xs-12" href="">Know More</a>
 			</div>
 		</div>

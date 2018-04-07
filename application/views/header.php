@@ -25,14 +25,14 @@
 
 </head>
 <body>
-<nav style="background-color: #000;height: 45px;">
+<nav class="hidden-xs" style="background-color: #000;height: 45px;">
 	<div class="container-fluid">
 		<div class="col-md-6">
 			<div class="col-md-6">
-				<p style="padding-top: 5px;"><i class="fas fa-map-marker-alt fa-2x" style="color: #fff;"></i> <span style="color: #fff;font-size: 16px;font-weight: bold;"> C-30, Hari Nagar, New Delhi, 110064<span></p>
+				<p style="padding-top: 5px;"><i class="fas fa-map-marker-alt" style="color: #fff;font-size: 24px;"></i> <span style="color: #fff;font-size: 16px;font-weight: bold;"> C-30, Hari Nagar, New Delhi, 110064<span></p>
 			</div>
 			<div class="col-md-6">
-				<p href="" style="padding-top: 5px;color: #fff;"><i class="fas fa-envelope  fa-2x" style="color: #fff;"></i><span style="color: #fff;font-size: 16px;font-weight: bold;"> countonadvisor@gmail.com<span></p>
+				<p href="" style="padding-top: 5px;color: #fff;"><i class="fas fa-envelope  " style="color: #fff;font-size: 24px;"></i><span style="color: #fff;font-size: 16px;font-weight: bold;"> countonadvisor@gmail.com<span></p>
 			</div>
 		</div>
 		<div class="col-md-6 text-right">
@@ -62,12 +62,73 @@
     <!-- Collect the nav links, forms, and other content for toggling -->
     <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
       <ul class="nav navbar-nav navbar-right header-main-nav">
-        <li><a href="#">Link</a></li>
-        <li><a href="#">Link</a></li>
-        <li><a href="#">Link</a></li>
-        <li><a href="#">Link</a></li>
-        <li><a href="#">Link</a></li>
-        <li><a href="#">Link</a></li>
+        <li class="dropdown">
+          <a class=" dropdown-toggle" type="button" data-toggle="dropdown" data-hover="dropdown">Mutual Funds <i class="fa fa-angle-down" aria-hidden="true"></i>
+          </a>
+          <ul class="dropdown-menu">
+            <li><a href="<?php echo base_url("index.php/profile"); ?>">About Mutual Funds</a></li>
+            <li><a href="<?php echo base_url("index.php/orders"); ?>" >About SIP</a></li>
+            <li><a href="<?php echo base_url("index.php/wishlist"); ?>">SIP Calculator</a></li>
+            <li><a href="<?php echo base_url("index.php/profile/address"); ?>">Current NFO</a></li>
+            <li><a href="<?php echo base_url("index.php/profile/account_details"); ?>">Dividends Announced</a></li>
+            <li><a href="<?php echo base_url("index.php/home/logout"); ?>">Latest NAV</a></li>
+            <li><a href="<?php echo base_url("index.php/home/logout"); ?>">Fund Performance</a></li>
+          </ul>
+        </li>
+        <li class="dropdown">
+          <a class=" dropdown-toggle" type="button" data-toggle="dropdown" data-hover="dropdown">Insurance <i class="fa fa-angle-down" aria-hidden="true"></i>
+          </a>
+          <ul class="dropdown-menu">
+            <li><a href="<?php echo base_url("index.php/profile"); ?>">Life Insurance</a></li>
+            <li><a href="<?php echo base_url("index.php/orders"); ?>" >Health Insurance</a></li>
+          </ul>
+        </li>
+        <li class="dropdown">
+          <a class=" dropdown-toggle" type="button" data-toggle="dropdown" data-hover="dropdown">Taxation <i class="fa fa-angle-down" aria-hidden="true"></i>
+          </a>
+          <ul class="dropdown-menu">
+            <li><a href="<?php echo base_url("index.php/profile"); ?>">Tax Planning</a></li>
+            <li><a href="<?php echo base_url("index.php/orders"); ?>" >Tax Slab</a></li>
+            <li><a href="<?php echo base_url("index.php/wishlist"); ?>"> Tax Deduction</a></li>
+            <li><a href="<?php echo base_url("index.php/profile/address"); ?>">Tax Calculator</a></li>
+          </ul>
+        </li>
+        <li class="dropdown">
+          <a class=" dropdown-toggle" type="button" data-toggle="dropdown" data-hover="dropdown">Calculators <i class="fa fa-angle-down" aria-hidden="true"></i>
+          </a>
+          <ul class="dropdown-menu">
+            <li><a href="sip-calculator.php">SIP Calculator</a></li>
+            <li><a href="education-calculator.php">Education Calculator</a></li>
+            <li><a href="marriage-calculator.php">Marriage Calculator</a></li>
+            <li><a href="retirement-calculator.php">Retirement Calculator</a></li>
+            <li><a href="goal-calculator.php">Goal Calculator</a></li>
+          </ul>
+        </li>
+        <li class="dropdown">
+          <a class=" dropdown-toggle" type="button" data-toggle="dropdown" data-hover="dropdown">NRI Services <i class="fa fa-angle-down" aria-hidden="true"></i>
+          </a>
+          <ul class="dropdown-menu">
+            <li><a href="<?php echo base_url("index.php/profile"); ?>">NRI Services</a></li>
+            <li><a href="<?php echo base_url("index.php/orders"); ?>" >Document Required</a></li>
+          </ul>
+        </li>
+        <li class="dropdown">
+          <a class=" dropdown-toggle" type="button" data-toggle="dropdown" data-hover="dropdown">Pathsala <i class="fa fa-angle-down" aria-hidden="true"></i>
+          </a>
+          <ul class="dropdown-menu">
+            <li><a href="<?php echo base_url("index.php/profile"); ?>">Profile</a></li>
+            <li><a href="<?php echo base_url("index.php/wishlist"); ?>"> Fund Compare</a></li>
+            <li><a href="<?php echo base_url("index.php/orders"); ?>" > Fund Selector</a></li>
+          </ul>
+        </li>
+        <li class="dropdown">
+          <a class=" dropdown-toggle" type="button" data-toggle="dropdown" data-hover="dropdown">Downloads <i class="fa fa-angle-down" aria-hidden="true"></i>
+          </a>
+          <ul class="dropdown-menu">
+            <li><a href="<?php echo base_url("index.php/profile"); ?>">MF Forms</a></li>
+            <li><a href="<?php echo base_url("index.php/profile"); ?>">KYC/FATCA Forms</a></li>
+          </ul>
+        </li>
       </ul>
     </div><!-- /.navbar-collapse -->
   </div><!-- /.container-fluid -->
