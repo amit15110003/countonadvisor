@@ -48,56 +48,46 @@
 	<div class="container">
 		<h2 class="text-center col-xs-12 col-md-12 th-tb">Our Services</h2>
 		<div class="row th-pt">
-			<div class="col-md-3">
+			<div class="col-md-4">
 				<img src="<?php echo base_url();?>media/image/services/2.png" class="img-responsive center-block s-img">
 							<h3 class="th-textb">Mutual Funds</h3>
 							<p class="th-textg">A mutual fund is simply a financial intermediary that allows a group..</p>
 							<div class="text-right link"><a href="" class="">Read More</a></div>
 			</div>
-			<div class="col-md-3">
+			<div class="col-md-4">
 				<img src="<?php echo base_url();?>media/image/services/1.png" class="img-responsive center-block s-img">
 							<h3 class="th-textb">SIP</h3>
 							<p class="th-textg">This is a simple strategy for accumulating wealth over a period..</p>
 							<div class="text-right link"><a href="" class="">Read More</a></div>
 			</div>
-			<div class="col-md-3">
+			<div class="col-md-4">
 				<img src="<?php echo base_url();?>media/image/services/4.png" class="img-responsive center-block s-img">
 							<h3 class="th-textb">Health Insurance</h3>
 							<p class="th-textg">Health insurance give the person a control over the choice of provider..</p>
 							<div class="text-right link"><a href="" class="">Read More</a></div>
 			</div>
-			<div class="col-md-3">
+			
+		</div>
+		<div class="row th-pt">
+			<div class="col-md-4">
 				<img src="<?php echo base_url();?>media/image/services/3.png" class="img-responsive center-block s-img">
 							<h3 class="th-textb">Life Insurance</h3>
 							<p class="th-textg">Life Insurance is a contract by which you can protect against losses..</p>
 							<div class="text-right link"><a href="" class="">Read More</a></div>
 			</div>
-		</div>
-		<div class="row th-pt">
-			<div class="col-md-3">
+			<div class="col-md-4">
 				<img src="<?php echo base_url();?>media/image/services/5.png" class="img-responsive center-block s-img">
 							<h3 class="th-textb">PMS</h3>
 							<p class="th-textg">We recognize that portfolios need to be constantly monitored and...</p>
 							<div class="text-right link"><a href="" class="">Read More</a></div>
 			</div>
-			<div class="col-md-3">
+			<div class="col-md-4">
 				<img src="<?php echo base_url();?>media/image/services/6.png" class="img-responsive center-block s-img">
 							<h3 class="th-textb">Taxation</h3>
 							<p class="th-textg">There is more to tax planning than exemptions available on savings..</p>
 							<div class="text-right link"><a href="" class="">Read More</a></div>
 			</div>
-			<div class="col-md-3">
-				<img src="<?php echo base_url();?>media/image/services/7.png" class="img-responsive center-block s-img">
-							<h3 class="th-textb">Mutual Funds</h3>
-							<p class="th-textg">There is more to tax planning than exemptions available on savings..</p>
-							<div class="text-right link"><a href="" class="">Read More</a></div>
-			</div>
-			<div class="col-md-3">
-				<img src="<?php echo base_url();?>media/image/services/8.png" class="img-responsive center-block s-img">
-							<h3 class="th-textb">Mutual Funds</h3>
-							<p class="th-textg">There is more to tax planning than exemptions available on savings..</p>
-							<div class="text-right link"><a href="" class="">Read More</a></div>
-			</div>
+			
 		</div>
 	</div>
 </div>
