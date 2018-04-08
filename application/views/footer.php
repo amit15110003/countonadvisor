@@ -2,6 +2,7 @@
     <div class="container" >
         <div class="col-xs-12 col-md-6">
             <h3 class="th-textw">Subscribe to stay informed </h3>
+            <p class="th-textg">Shortest way to explore what will happen on investment</p>
         </div>
         <div class="col-xs-12 col-md-6">
             <input type="" name="" class="scrb-in col-xs-6 col-md-6" placeholder="Your email address">

@@ -27,7 +27,7 @@
 <body>
 <nav class="hidden-xs" style="background-color: #000;height: 45px;">
 	<div class="container-fluid">
-		<div class="col-md-6">
+		<div class="col-md-6 hidden-sm">
 			<div class="col-md-6">
 				<p style="padding-top: 5px;"><i class="fas fa-map-marker-alt" style="color: #fff;font-size: 24px;"></i> <span style="color: #fff;font-size: 16px;font-weight: bold;"> C-30, Hari Nagar, New Delhi, 110064<span></p>
 			</div>

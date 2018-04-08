@@ -94,7 +94,7 @@
 <div class="row" style="background-image: url('<?php echo base_url();?>media/image/background2.jpg');background-position: center;background-size: cover;background-repeat: no-repeat;">
 	<div class="container th-row-p">
 		<div class="col-xs-12 col-md-6">
-			<h2 style="">Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci </h2>
+			<h2 style="">Neque porro quisquam est qui dolorem  </h2>
 			<h3  class="th-textw">Counton group, is one of India’s premier providers of financial services. The Counton offers advice and execution platform</h3>
 			<div class="col-md-6 col-md-offset-6 col-xs-12 text-right">
 				<a class="th-btn th-btn-in col-xs-12" href="">Know More</a>
@@ -172,7 +172,7 @@
 <div class="row th-row-p" id="contactus">
 	<div class="container" >
 		<div class="col-xs-12 col-md-9">
-			<h3 class="th-textw">Counton group, is one of India’s premier providers of financial. </h3>
+			<h3 class="th-textw">Looking for a first class Business Plan Consultant?  </h3>
 		</div>
 		<div class="col-xs-12 col-md-3">
 			<a class="th-btn th-btn-default col-xs-12" href="">Contact Us</a>

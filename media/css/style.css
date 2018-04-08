@@ -47,3 +47,9 @@ p{font-size: 18px !important;}
     color: #73777A;
     font-size: 20px;
 }
+.dropdown a{font-size: 18px !important;}
+.dropdown-menu{border: none; border-radius: 0; padding: 40px;box-shadow: 0 5px 5px #e3e3e3;}
+.dropdown-menu li a{font-size: 18px; color: #3e4451 !important; padding: 10px 0; text-transform: capitalize;}
+.dropdown-menu li a:hover{background-color: transparent !important;}
+.dropdown-menu li a:active{background-color: transparent !important;}
+.nav .open>a, .nav .open>a:focus, .nav .open>a:hover{background-color: transparent !important;}
