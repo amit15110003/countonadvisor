@@ -3,7 +3,7 @@
 		<h1 class="th-title text-center">Disclaimer</h1>
 	</div>
 </div>
-<div class="row">
+<div class="row th-row-p">
 	<div class="container">
 		<h3 class="th-htextcont"></h3>
 		<p class="th-textcont">These are our terms and conditions for usage of the website, www.countonadvisors.com and the related services offered by Counton Advisors.<br><br>

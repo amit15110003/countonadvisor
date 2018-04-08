@@ -3,7 +3,7 @@
 		<h1 class="th-title text-center">Health Insurance</h1>
 	</div>
 </div>
-<div class="row">
+<div class="row th-row-p">
 	<div class="container">
 		<h3 class="th-htextcont"></h3>
 		<p class="th-textcont">With medical costs spiraling out of control and the increase in shift to lifestyle diseases, healthcare today is at its all-time high in terms of treatment costs. In the event of an unforeseen illness, you may have no option other than to utilize your hard earned savings, built over your lifetime. Finally, what’s more important than your health and what better way to protect it than with the right Health Insurance Plan.<br><br>

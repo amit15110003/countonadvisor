@@ -3,7 +3,7 @@
 		<h1 class="th-title text-center">Mutual Funds</h1>
 	</div>
 </div>
-<div class="row">
+<div class="row th-row-p">
 	<div class="container">
 		<h3 class="th-htextcont">What is Mutual Fund?</h3>
 		<p class="th-textcont">A mutual fund is simply a financial intermediary that allows a group of investors to pool their money together with a predetermined investment objective. The mutual fund will have a fund manager who is responsible for investing the pooled money into specific securities (usually stocks or bonds). Mutual funds are one of the best investments ever created because they are very cost efficient and very easy to invest in (you don't have to figure out which stocks or bonds to buy).</p>

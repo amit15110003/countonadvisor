@@ -3,7 +3,7 @@
 		<h1 class="th-title text-center">About SIP</h1>
 	</div>
 </div>
-<div class="row">
+<div class="row th-row-p">
 	<div class="container">
 		<h3 class="th-htextcont"></h3>
 		<p class="th-textcont">This is a simple strategy for accumulating wealth over a period of time by investing regularly at a fixed interval of time in mutual fund schemes, this is similar to the concept of recurring deposits scheme, but this being in equity come tagged with relatively a higher risk and higher return than the recurring deposit.</p>

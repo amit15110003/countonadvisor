@@ -3,7 +3,7 @@
 		<h1 class="th-title text-center">Tax Deduction</h1>
 	</div>
 </div>
-<div class="row">
+<div class="row th-row-p">
 	<div class="container">
 		<h3 class="th-htextcont">Deductions under Chapter VI (sec 80C)</h3>
 				<div class="col-md-6">

@@ -3,7 +3,7 @@
 		<h1 class="th-title text-center">Tax Planning</h1>
 	</div>
 </div>
-<div class="row">
+<div class="row th-row-p">
 	<div class="container">
 		<h3 class="th-htextcont"></h3>
 		<p class="th-textcont">There is more to tax planning than exemptions available on savings. With our advice, you will pay the right amount of tax, not more and not less. You will also know how to tax proof your incomes and gains. After all, your capital is more productive in your hands and it can work wonders for you if planned properly.<br><br>

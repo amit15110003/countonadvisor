@@ -116,7 +116,7 @@
           <a class=" dropdown-toggle" type="button" data-toggle="dropdown" data-hover="dropdown">Pathsala <i class="fa fa-angle-down" aria-hidden="true"></i>
           </a>
           <ul class="dropdown-menu">
-            <li><a href="<?php echo base_url("index.php/profile"); ?>">Profile</a></li>
+            <li><a href="<?php echo base_url("index.php/profile"); ?>">7 Principles Of Investment</a></li>
             <li><a href="<?php echo base_url("index.php/wishlist"); ?>"> Fund Compare</a></li>
             <li><a href="<?php echo base_url("index.php/orders"); ?>" > Fund Selector</a></li>
           </ul>

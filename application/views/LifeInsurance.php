@@ -3,7 +3,7 @@
 		<h1 class="th-title text-center">Life Insurance</h1>
 	</div>
 </div>
-<div class="row">
+<div class="row th-row-p">
 	<div class="container">
 		<h3 class="th-htextcont"></h3>
 		<p class="th-textcont">Life Insurance is a contract by which you can protect yourself against specific losses by paying a premium over a period of time. Since each one of us, during our lives are faced with numerous risks - failing health, financial losses, accidents and even fatalities, our instinct drives us to cover ourselves against those risks. Though an insurance cover can't protect you against the emotional losses arising out of these risks, it softens the economic crisis that usually accompanies these losses.<br>

@@ -3,7 +3,7 @@
 		<h1 class="th-title text-center">NRI Services</h1>
 	</div>
 </div>
-<div class="row">
+<div class="row th-row-p">
 	<div class="container">
 		<h3 class="th-htextcont"></h3>
 		<p class="th-textcont">India has turned into a splendid investment destination for Non Resident Indians and persons of Indian origin. A growing & robust economy, a strong Rupee and profitable companies have together ensured that investors get maximum returns from both equity and debt markets. A highly transparent and automated stock exchange and a resonant mutual fund industry have ensured that investments are liquid and transparent. Taking advantage of this environment and our proven experience in the market.<br><br>
