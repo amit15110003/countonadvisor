@@ -13,7 +13,7 @@
 <div class="row" style="background-image: url('<?php echo base_url();?>media/image/footer.jpg');background-position: center;background-size: cover;background-repeat: no-repeat;">
     <div class="container th-row-p">
         <div class="col-md-10 col-md-offset-1 col-xs-12">
-             <h2 class=" col-md-12 text-center th-textw">Countonadvisor</h2>
+             <h2 class=" col-md-12 text-center th-textw">Counton advisor</h2>
              <ul class="footer-nav text-center">
                 <li><a href="">Home</a></li>
                 <li><a href="">|</a></li>
