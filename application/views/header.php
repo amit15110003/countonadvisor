@@ -124,8 +124,8 @@
           <a class=" dropdown-toggle" type="button" data-toggle="dropdown" data-hover="dropdown">Downloads <i class="fa fa-angle-down" aria-hidden="true"></i>
           </a>
           <ul class="dropdown-menu">
-            <li><a href="<?php echo base_url("index.php/profile"); ?>">MF Forms</a></li>
-            <li><a href="<?php echo base_url("index.php/profile"); ?>">KYC/FATCA Forms</a></li>
+            <li><a href="<?php echo base_url("index.php/home/mfform"); ?>">MF Forms</a></li>
+            <li><a href="<?php echo base_url("index.php/home/kyc"); ?>">KYC/FATCA Forms</a></li>
           </ul>
         </li>
       </ul>

@@ -129,6 +129,18 @@ class Home extends CI_Controller {
 		$this->load->view('fundselector');
 		$this->load->view('footer');
 	}
+	public function mfform()
+	{
+		$this->load->view('header');
+		$this->load->view('mfform');
+		$this->load->view('footer');
+	}
+	public function kyc()
+	{
+		$this->load->view('header');
+		$this->load->view('kyc');
+		$this->load->view('footer');
+	}
 	public function Disclaimer()
 	{
 		$this->load->view('header');
