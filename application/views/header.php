@@ -22,7 +22,6 @@
   <link href="https://fonts.googleapis.com/css?family=Merriweather:400,700|Source+Sans+Pro:400,700" rel="stylesheet">
 	<script defer src="https://use.fontawesome.com/releases/v5.0.9/js/all.js" integrity="sha384-8iPTk2s/jMVj81dnzb/iFR2sdA7u06vHJyyLlAd4snFpCl/SnyUjRrbdJsw1pGIl" crossorigin="anonymous"></script>
 
-
 </head>
 <body>
 <nav class="hidden-xs" style="background-color: #000;height: 45px;">
@@ -68,11 +67,11 @@
           <ul class="dropdown-menu">
             <li><a href="<?php echo base_url("index.php/home/Mutualfunds"); ?>">About Mutual Funds</a></li>
             <li><a href="<?php echo base_url("index.php/home/AboutSIP"); ?>" >About SIP</a></li>
-            <li><a href="<?php echo base_url("index.php/wishlist"); ?>">SIP Calculator</a></li>
+            <li><a href="<?php echo base_url("index.php/home/sipcalculator"); ?>">SIP Calculator</a></li>
             <li><a href="<?php echo base_url("index.php/home/CurrentNFO"); ?>">Current NFO</a></li>
-            <li><a href="<?php echo base_url("index.php/home/#"); ?>">Dividends Announced</a></li>
-            <li><a href="<?php echo base_url("index.php/home/logout"); ?>">Latest NAV</a></li>
-            <li><a href="<?php echo base_url("index.php/home/logout"); ?>">Fund Performance</a></li>
+            <li><a href="<?php echo base_url("index.php/home/DividendAnnounced"); ?>">Dividends Announced</a></li>
+            <li><a href="<?php echo base_url("index.php/home/latestnav"); ?>">Latest NAV</a></li>
+            <li><a href="<?php echo base_url("index.php/home/fundperformance"); ?>">Fund Performance</a></li>
           </ul>
         </li>
         <li class="dropdown">
@@ -90,7 +89,7 @@
             <li><a href="<?php echo base_url("index.php/home/TaxPlanning"); ?>">Tax Planning</a></li>
             <li><a href="<?php echo base_url("index.php/home/#"); ?>" >Tax Slab</a></li>
             <li><a href="<?php echo base_url("index.php/home/TaxDeduction"); ?>"> Tax Deduction</a></li>
-            <li><a href="<?php echo base_url("index.php/home/#"); ?>">Tax Calculator</a></li>
+            <li><a href="<?php echo base_url("index.php/home/Taxcalculator"); ?>">Tax Calculator</a></li>
           </ul>
         </li>
         <li class="dropdown">
@@ -117,8 +116,8 @@
           </a>
           <ul class="dropdown-menu">
             <li><a href="<?php echo base_url("index.php/profile"); ?>">7 Principles Of Investment</a></li>
-            <li><a href="<?php echo base_url("index.php/wishlist"); ?>"> Fund Compare</a></li>
-            <li><a href="<?php echo base_url("index.php/orders"); ?>" > Fund Selector</a></li>
+            <li><a href="<?php echo base_url("index.php/home/fundcompare"); ?>"> Fund Compare</a></li>
+            <li><a href="<?php echo base_url("index.php/home/fundselector"); ?>" > Fund Selector</a></li>
           </ul>
         </li>
         <li class="dropdown">

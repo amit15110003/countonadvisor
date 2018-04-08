@@ -45,6 +45,12 @@ class Home extends CI_Controller {
 		$this->load->view('AboutSIP');
 		$this->load->view('footer');
 	}
+	public function sipcalculator()
+	{
+		$this->load->view('header');
+		$this->load->view('sipcalculator');
+		$this->load->view('footer');
+	}
 	public function CurrentNFO()
 	{
 		$this->load->view('header');
@@ -55,6 +61,18 @@ class Home extends CI_Controller {
 	{
 		$this->load->view('header');
 		$this->load->view('DividendAnnounced');
+		$this->load->view('footer');
+	}
+	public function latestnav()
+	{
+		$this->load->view('header');
+		$this->load->view('latestnav');
+		$this->load->view('footer');
+	}
+	public function fundperformance()
+	{
+		$this->load->view('header');
+		$this->load->view('fundperformance');
 		$this->load->view('footer');
 	}
 	public function LifeInsurance()
@@ -81,6 +99,12 @@ class Home extends CI_Controller {
 		$this->load->view('TaxDeduction');
 		$this->load->view('footer');
 	}
+	public function Taxcalculator()
+	{
+		$this->load->view('header');
+		$this->load->view('Taxcalculator');
+		$this->load->view('footer');
+	}
 	public function NRIServices()
 	{
 		$this->load->view('header');
@@ -91,6 +115,18 @@ class Home extends CI_Controller {
 	{
 		$this->load->view('header');
 		$this->load->view('DocumentsRequired');
+		$this->load->view('footer');
+	}
+	public function fundcompare()
+	{
+		$this->load->view('header');
+		$this->load->view('fundcompare');
+		$this->load->view('footer');
+	}
+	public function fundselector()
+	{
+		$this->load->view('header');
+		$this->load->view('fundselector');
 		$this->load->view('footer');
 	}
 	public function Disclaimer()
